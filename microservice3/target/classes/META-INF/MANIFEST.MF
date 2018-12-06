@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: microservice3
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: varun_a
+Implementation-Vendor-Id: com.sovanm.microservice3
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/microservice3
+Created-By: Maven Integration for Eclipse
+
