@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: microservice1
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: varun_a
+Built-By: VarunAdhiakri
 Implementation-Vendor-Id: com.sovanm.microservice1
-Build-Jdk: 1.8.0_191
+Build-Jdk: 1.8.0_161
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
  ot-starter-parent/microservice1
 Created-By: Maven Integration for Eclipse
